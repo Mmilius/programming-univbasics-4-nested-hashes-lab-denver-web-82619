@@ -19,8 +19,6 @@ return programmer_hash[:grace_hopper]
 end
 
 def alan_kay_is_known_for
-
-
 	programmer_hash = 
  		{
         :grace_hopper => {
@@ -36,6 +34,7 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
+     returns programmer_hash[:alan_kay]
 end
 
 def dennis_ritchies_language
