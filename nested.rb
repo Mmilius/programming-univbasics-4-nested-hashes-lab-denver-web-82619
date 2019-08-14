@@ -22,6 +22,7 @@ end
 def alan_kay_is_known_for
 	programmer_hash[:alan_kay][:known_for] = "COBOL"
 	programmer_hash{:alan_kay][:languages] = "COBOL", "FORTRAN"
+	puts programmer_hash
 	
 	programmer_hash = 
  		{
