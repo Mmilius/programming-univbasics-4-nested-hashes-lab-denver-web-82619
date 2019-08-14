@@ -21,7 +21,7 @@ end
 
 def alan_kay_is_known_for
 	alan_kay[:known_for] = "COBOL"
-alan_kay[:languages] = "COBOL"
+alan_kay[:languages] = "COBOL", "FORTRAN"
 	
 	
 	programmer_hash = 
