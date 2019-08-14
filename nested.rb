@@ -20,8 +20,8 @@ def hopper
 end
 
 def alan_kay_is_known_for
-	programmer_hash[:alan_kay:][:known_for] = "COBOL"
-	programmer_hash[:alan_kay][:languages] = "COBOL"
+	alan_kay[:known_for] = "COBOL"
+alan_kay[:languages] = "COBOL"
 	
 	
 	programmer_hash = 
